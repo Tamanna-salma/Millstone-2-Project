@@ -1,0 +1,16 @@
+
+/* common style */
+.noto-serif{
+    font-family: "Noto Serif", serif;
+   
+}
+.inter{
+    font-family: "Inter", sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+}
+.primary-color{
+    color: #E95A08;
+}
+.second-color{
+    color: #000000;
+}
