@@ -6,11 +6,18 @@
 }
 .inter{
     font-family: "Inter", sans-serif;
-    color: rgba(0, 0, 0, 0.5);
+   
 }
 .primary-color{
     color: #E95A08;
 }
 .second-color{
     color: #000000;
+}
+.paragraph-text{
+     color: rgba(0, 0, 0, 0.5);
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #E95A08;
 }
